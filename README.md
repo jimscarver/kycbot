@@ -1,4 +1,5 @@
 
+This code is depreciated. See rho-bot instead.
 Sample dialog from this bot. Modify to make your own bot.
 
 ```
